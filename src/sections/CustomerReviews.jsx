@@ -11,7 +11,7 @@ const CustomerReviews = () => {
         Hear genuine storis from our customers about their exceptional
         experiences with us.
       </p>
-      <div className="mt-24 flex flex-1 justify-evenly">
+      <div className="mt-14 flex flex-1 justify-evenly">
         {reviews.map((review) => {
           return (
             <ReviewCard

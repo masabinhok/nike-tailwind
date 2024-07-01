@@ -21,6 +21,9 @@ import thumbnailShoe1 from './thumbnail-shoe1.svg'
 import thumbnailShoe2 from './thumbnail-shoe2.svg'
 import thumbnailShoe3 from './thumbnail-shoe3.svg'
 
+import customer3 from './customer3.webp'
+import customer4 from './customer4.jpg'
+
 export {
     bigShoe1,
     bigShoe2,
@@ -28,6 +31,8 @@ export {
 
     customer1,
     customer2,
+    customer3,
+    customer4,
 
     footerLogo,
     headerLogo,
